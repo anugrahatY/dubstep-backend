@@ -1,0 +1,9 @@
+# Install a PyTorch build compatible with your machine/GPU first.
+torch>=2.4
+transformers>=4.51
+peft>=0.11
+accelerate>=0.30
+bitsandbytes>=0.43
+sentencepiece
+sentence-transformers
+numpy
